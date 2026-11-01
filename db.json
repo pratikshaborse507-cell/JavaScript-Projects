@@ -1,0 +1,186 @@
+{
+  "students": [
+ {
+      "id": "1",
+      "name": "Priya Joshi",
+      "age": 21,
+      "gender": "Female",
+      "city": "Pune",
+      "course": "Angular",
+      "marks": 60,
+      "attendance": 81,
+      "feesPaid": true,
+      "placement": true
+    },
+
+    {
+      "id": "2",
+      "name": "Rani Joshi",
+      "age": 21,
+      "gender": "Female",
+      "city": "Pune",
+      "course": "Angular",
+      "marks": 60,
+      "attendance": 81,
+      "feesPaid": true,
+      "placement": true
+    },
+    {
+      "id": "3",
+      "name": "Amit Verma",
+      "age": 20,
+      "gender": "Male",
+      "city": "Nagpur",
+      "course": "Angular",
+      "marks": 65,
+      "attendance": 80,
+      "feesPaid": false,
+      "placement": false
+    },
+    {
+      "id": "4",
+      "name": "Sneha Kulkarni",
+      "age": 23,
+      "gender": "Female",
+      "city": "Nashik",
+      "course": "JavaScript",
+      "marks": 76,
+      "attendance": 88,
+      "feesPaid": true,
+      "placement": false
+    },
+    {
+      "id": "5",
+      "name": "Rohan Deshmukh",
+      "age": 21,
+      "gender": "Male",
+      "city": "Pune",
+      "course": "React",
+      "marks": 85,
+      "attendance": 92,
+      "feesPaid": false,
+      "placement": false
+    },
+    {
+      "id": "6",
+      "name": "Neha Joshi",
+      "age": 22,
+      "gender": "Female",
+      "city": "Mumbai",
+      "course": "Angular",
+      "marks": 94,
+      "attendance": 99,
+      "feesPaid": true,
+      "placement": true
+    },
+    {
+      "id": "7",
+      "name": "Karan Singh",
+      "age": 20,
+      "gender": "Male",
+      "city": "Delhi",
+      "course": "JavaScript",
+      "marks": 58,
+      "attendance": 73,
+      "feesPaid": false,
+      "placement": false
+    },
+    {
+      "id": "8",
+      "name": "Pooja Shah",
+      "age": 21,
+      "gender": "Female",
+      "city": "Ahmedabad",
+      "course": "React",
+      "marks": 81,
+      "attendance": 90,
+      "feesPaid": true,
+      "placement": true
+    },
+    {
+      "id": "9",
+      "name": "Aditya Pawar",
+      "age": 23,
+      "gender": "Male",
+      "city": "Aurangabad",
+      "course": "Angular",
+      "marks": 69,
+      "attendance": 85,
+      "feesPaid": true,
+      "placement": false
+    },
+    {
+      "id": "10",
+      "name": "Komal More",
+      "age": 22,
+      "gender": "Female",
+      "city": "Kolhapur",
+      "course": "JavaScript",
+      "marks": 89,
+      "attendance": 96,
+      "feesPaid": true,
+      "placement": true
+    },
+    {
+      "id": 11,
+      "name": "Pratiksha Borse",
+      "age": 18,
+      "gender": "Female",
+      "city": "Bodwod",
+      "course": "BCA",
+      "marks": 70,
+      "attendance": 91,
+      "feesPaid": true,
+      "placement": true
+    },
+    {
+      "id": 13,
+      "name": "Ashwini Rokade",
+      "age": 30,
+      "gender": "Female",
+      "city": "jamaner",
+      "course": "BCA",
+      "marks": 80,
+      "attendance": 92,
+      "feesPaid": "Paid",
+      "placement": "Placed"
+    },
+    {
+      "id": 16,
+      "name": "Ishwar Borse",
+      "age": 18,
+      "gender": "Male",
+      "city": "Bodwod",
+      "course": "BBA",
+      "marks": 70,
+      "attendance": 91,
+      "feesPaid": "Pending",
+      "placement": "Placed"
+    },
+    {
+      "id": 17,
+      "name": "Diksha Surwade",
+      "age": 18,
+      "gender": "Female",
+      "city": "Bhusawal",
+      "course": "BCA",
+      "marks": 80,
+      "attendance": 97,
+      "feesPaid": "Paid",
+      "placement": "Placed"
+    },
+    {
+      "id": 18,
+      "name": "Pallavi Prakash Patil",
+      "age": 17,
+      "gender": "Female",
+      "city": "Bodwod",
+      "course": "BSC",
+      "marks": 85,
+      "attendance": 95,
+      "feesPaid": "Paid",
+      "placement": "Placed"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
